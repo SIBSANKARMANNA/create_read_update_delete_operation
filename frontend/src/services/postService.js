@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://crud-application-kqa7.onrender.com/api/posts';
+const API_URL = 'https://create-read-update-delete-operation.onrender.com/api/posts';
 // const API_URL = 'http://localhost:5000/api/posts';
 
 export const getAllPosts = () => axios.get(API_URL);
