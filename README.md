@@ -6,6 +6,8 @@
 - Backend powered by Node.js and MongoDB for efficient data handling.
 - Styled with CSS for a clean and modern design.
 
+- lIVE PROJECT: https://create-read-update-delelte.netlify.app/
+
 ## Technical Stack
 - **Frontend**: React.js, CSS
 - **Backend**: Node.js, MongoDB
